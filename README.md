@@ -11,9 +11,6 @@
   <a href="mailto:hariharan072270@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
-
-<p align="center"><i>⚠️ Note: update the LinkedIn URL badge above with your real profile link — the resume only listed a display label, not a URL.</i></p>
-
 ---
 
 ### 💻 About Me — in code
