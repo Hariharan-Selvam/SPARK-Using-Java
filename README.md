@@ -150,4 +150,4 @@ public class Hariharan {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<p align="center"><i>Thanks for stopping by — always open to QA, testing, or full-stack opportunities! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — always open to QA testing opportunities! 🚀</i></p>
