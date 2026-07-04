@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing%20%7C%20Java%20%E2%80%A2%20Selenium%20%E2%80%A2%20SQL&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20QA%20Engineer%20-%20Manual%20and%20Automation%20Testing&descAlignY=62&descSize=16" />
 </h1>
 
 <p align="center">
@@ -11,6 +11,9 @@
   <a href="mailto:hariharan072270@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
+<p align="center"><i>⚠️ Note: update the LinkedIn URL badge above with your real profile link — the resume only listed a display label, not a URL.</i></p>
+
 ---
 
 ### 💻 About Me — in code
