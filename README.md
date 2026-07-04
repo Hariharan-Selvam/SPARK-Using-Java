@@ -86,9 +86,6 @@ public class Hariharan {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&no-frame=true&no-bg=true&theme=tokyonight" />
 </p>
-
-<p align="center"><i>⚠️ Note: these widgets pull live from your GitHub username. GitHub usernames can't contain underscores — double-check "aswath_tamilan" is correct, or these will show as empty/broken.</i></p>
-
 ---
 
 ### 💼 Training & Practical Experience
